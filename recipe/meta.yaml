@@ -1,6 +1,6 @@
 package:
   name: catboost
-  version: "0.20.1"
+  version: "0.22"
 
 build:
   number: 0
@@ -46,3 +46,4 @@ extra:
     - kizill
     - nikitxskv
     - dbakshee
+    - andrey-khropov
